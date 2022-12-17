@@ -9,5 +9,6 @@ Architektonicznie jest sporo do poprawy:
  -> destructive testów nie ma
  -> mógłbym pozbyć się modeli, które zawierają jedynie listę z Data
  -> brak pokrycia niektórych endpointów
+ -> RestRequest również mógłby być zrobiony za pomocą DI, teraz na sztywno wszędzie wrzucam końcówki
  
 Sporo tu brakuje, takie rozwiązanie się nadaje na pokazanie jak działa RestSharp najwyżej. :)
